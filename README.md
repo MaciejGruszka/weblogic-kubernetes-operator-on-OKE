@@ -32,7 +32,7 @@ The lab describes user interface available on June, 2018.
 
 1. [Create Oracle Container Pipeline to build WebLogic Operator](tutorials/create.weblogic.operator.md)
 2. [Setup WebLogic domain on Kubernetes](tutorials/setup.weblogic.kubernetes.md)
-3. [Create Oracle Container Pipeline to build sample JEE application and deploy to WebLogic running on Kubernetes ](tutorials/sample.app.pipeline.md)
+3. [Create Oracle Container Pipeline to build sample JavaEE application and deploy to WebLogic running on Kubernetes ](tutorials/sample.app.pipeline.md)
 
 ### License ###
 Copyright (c) 2014-2018 Oracle and/or its affiliates
